@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google]
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome]
+"DefaultNotificationsSetting"=dword:00000002
+"DownloadRestrictions"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\ExtensionInstallBlacklist]
+"1"="*"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\ExtensionInstallWhitelist]
+"1"="cfhdojbkjhnklbpkdaibdccddilifddb"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\NotificationsBlockedForUrls]
+"1"="*"
