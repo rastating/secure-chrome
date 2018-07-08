@@ -59,7 +59,7 @@ I've changed my mind, how do I remove this?
 To restore Google Chrome back to it's default state, run one of the following two files:
 
 * `secure_chrome_all_users_uninstall.reg` - run this if you installed for all users of the machine.
-* `secure_chrome_current_user_uninstsall.reg` - run this if you installed for the current user of the machine.
+* `secure_chrome_current_user_uninstall.reg` - run this if you installed for the current user of the machine.
 
 Why is Adblock Plus whitelisted?
 ================================
